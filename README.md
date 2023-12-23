@@ -14,16 +14,17 @@ sudo git clone https://github.com/t3l3machus/Villain.git
 cd ./Villain
 pip3 install -r requirements.txt
 ```
-![1](https://github.com/mishqatabid/Network-Security/assets/145700715/2403bd33-b50f-4489-911a-5fde6d4883bb | width=100) <br>
-![2](https://github.com/mishqatabid/Network-Security/assets/145700715/662e451a-46a2-43db-b955-d2c396d24498 | width=50)
+![1](https://github.com/mishqatabid/Network-Security/assets/145700715/09fc9dac-f0db-40b0-a0f4-40429e2849f9)<br>
+![2](https://github.com/mishqatabid/Network-Security/assets/145700715/bf6b1320-018e-4696-9bfa-531802b8824a)
 
 You should also install `gnome-terminal` (required for one of the framework's commands):
 ```
 sudo apt update&&sudo apt install gnome-terminal
 ```
-![3](https://github.com/mishqatabid/Network-Security/assets/145700715/d7c5083c-6c2a-48ec-bf96-6e4fca22b1ff)
+
+![3](https://github.com/mishqatabid/Network-Security/assets/145700715/193d2fe2-69b8-4d75-bb41-f9f8c4a05611)
 
 Now it is ready to use<br>
 
-![4](https://github.com/mishqatabid/Network-Security/assets/145700715/58e48912-81fa-4e9f-9c00-8142a1c0b8ec)
+![4](https://github.com/mishqatabid/Network-Security/assets/145700715/58e48912-81fa-4e9f-9c00-8142a1c0b8ec)<br>
 
