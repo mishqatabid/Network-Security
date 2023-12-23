@@ -1,11 +1,11 @@
 # Network-Security
 
 # Requirements:
-•	Kali Linux (attacker’s machine) <br>
-•	Windows 11 (victim’s machine) <br>
-•	Villain Tool on Kali Linux <br>
-•	DigiSpark Attiny85 <br>
-•	Arduino IDE <br>
+•	 Kali Linux (attacker’s machine) <br>
+•	 Windows 11 (victim’s machine) <br>
+•	 Villain Tool on Kali Linux <br>
+•	 DigiSpark Attiny85 <br>
+•	 Arduino IDE <br>
 
 # Installing Villain Tool
 Install the latest version of Villain manually:
@@ -23,6 +23,7 @@ sudo apt update&&sudo apt install gnome-terminal
 ```
 ![3](https://github.com/mishqatabid/Network-Security/assets/145700715/d7c5083c-6c2a-48ec-bf96-6e4fca22b1ff)
 
-Now it is ready to use
+Now it is ready to use<br>
+
 ![4](https://github.com/mishqatabid/Network-Security/assets/145700715/58e48912-81fa-4e9f-9c00-8142a1c0b8ec)
 
