@@ -25,7 +25,5 @@ sudo apt update&&sudo apt install gnome-terminal
 
 Now it is ready to use<br>
 
-<img align="left" width="100" height="100">
-
 ![4](https://github.com/mishqatabid/Network-Security/assets/145700715/58e48912-81fa-4e9f-9c00-8142a1c0b8ec)
 
