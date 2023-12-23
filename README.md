@@ -14,7 +14,7 @@ sudo git clone https://github.com/t3l3machus/Villain.git
 cd ./Villain
 pip3 install -r requirements.txt
 ```
-![1](https://github.com/mishqatabid/Network-Security/assets/145700715/09fc9dac-f0db-40b0-a0f4-40429e2849f9)<br>
+![1](https://github.com/mishqatabid/Network-Security/assets/145700715/09fc9dac-f0db-40b0-a0f4-40429e2849f9)
 ![2](https://github.com/mishqatabid/Network-Security/assets/145700715/bf6b1320-018e-4696-9bfa-531802b8824a)
 
 You should also install `gnome-terminal` (required for one of the framework's commands):
