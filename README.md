@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 ![2](https://github.com/mishqatabid/Network-Security/assets/145700715/bf6b1320-018e-4696-9bfa-531802b8824a)<br>
 
 You should also install `gnome-terminal` (required for one of the framework's commands):<br>
-```
+```console
 sudo apt update&&sudo apt install gnome-terminal
 ```
 
